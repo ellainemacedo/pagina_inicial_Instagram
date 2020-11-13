@@ -1,4 +1,4 @@
-# # Página inicial Instagram :mobile_phone_off:
+# Página inicial Instagram :mobile_phone_off:
 Projeto Digital Innovation One para construção da página de login do Instagram.
 
-Conceito abordado: CSS Flexbox responsividade.
+Conceito abordado: CSS Flexbox e responsividade.
